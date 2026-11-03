@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340">
+<rect width="900" height="340" rx="24" fill="#EAF2F4"/>
+<rect x="85" y="115" width="210" height="155" rx="18" fill="#477A91"/>
+<path d="M65 128 L190 45 L315 128" fill="none" stroke="#315A6B" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="160" y="175" width="60" height="95" rx="8" fill="#F8EAF1"/>
+<circle cx="190" cy="95" r="28" fill="#D99B39"/>
+<circle cx="430" cy="115" r="43" fill="#E7B8CE"/>
+<circle cx="430" cy="105" r="22" fill="#F4D6C5"/>
+<path d="M385 205 Q430 130 475 205 L490 275 H370 Z" fill="#A64D79"/>
+<rect x="555" y="70" width="265" height="190" rx="20" fill="#FFFFFF"/>
+<path d="M595 120 H780 M595 160 H750 M595 200 H770" stroke="#9BB7C1" stroke-width="13" stroke-linecap="round"/>
+<circle cx="595" cy="120" r="10" fill="#D99B39"/><circle cx="595" cy="160" r="10" fill="#A64D79"/><circle cx="595" cy="200" r="10" fill="#477A91"/>
+<text x="555" y="302" font-family="Arial" font-size="23" fill="#315A6B">Um trabalho essencial para toda a sociedade</text>
+</svg>
